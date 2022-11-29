@@ -23,7 +23,7 @@
       <td>
         <img src="https://streak-stats.demolab.com?user=rkkmkkfx&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats" />
       </td>
-      <td rowspan=3 valign="top">
+      <td rowspan=2 valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkkmkkfx&langs_count=8&hide=sqlpl,plpgsql,plsql" />
       </td>
     </tr>
@@ -35,6 +35,9 @@
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rkkmkkfx&v=2)](https://github.com/anuraghazra/github-readme-stats" />
+      </td>
+      <td>
+        <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
       </td>
     </tr>
   </tbody>
