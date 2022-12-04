@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20there!&fontSize=90)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rkkmkkfx/count.svg" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rkkmkkfx&theme=onedark&no-bg=true&no-frame=true&column=7" />
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rkkmkkfx/count.svg" />
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
